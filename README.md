@@ -10,7 +10,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Hola
-* Incluye ejemploes en windows linux y mac
 * uno mas
 * Un ejmplo mas con stash
 
